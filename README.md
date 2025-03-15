@@ -30,6 +30,7 @@ Este projeto tem como objetivo analisar padrões de atraso em entregas logístic
 │-- 📄 analise_logistica.ipynb  # Notebook com a análise
 │-- 📄 README.md  # Documentação do projeto
 ---
+## **Contato**
 🔍 **Autor:** Lucas Lourenço
 📧 Contato: lucas.lourenco331@hotmail.com
 📌 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
