@@ -1,4 +1,4 @@
-# 📦 Análise de Dados Logísticos: Redução de Atrasos e Otimização de Entregas
+# Análise de Dados Logísticos: Redução de Atrasos e Otimização de Entregas
 
 ## 📌 Sobre o Projeto
 Este projeto tem como objetivo analisar padrões de atraso em entregas logísticas, identificando fatores que impactam a eficiência operacional. Utilizando **Python e Pandas**, exploramos os dados para detectar tendências, otimizar processos e apoiar a tomada de decisões estratégicas.
@@ -29,8 +29,9 @@ Este projeto tem como objetivo analisar padrões de atraso em entregas logístic
 │-- 📄 dataset.csv  # Base de dados utilizada
 │-- 📄 analise_logistica.ipynb  # Notebook com a análise
 │-- 📄 README.md  # Documentação do projeto
----
-## **Contato**
+```
+
+## 📞 Contato
 🔍 **Autor:** Lucas Lourenço
-📧 Contato: lucas.lourenco331@hotmail.com
-📌 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
+📧 **E-mail:** lucas.lourenco331@hotmail.com
+📌 **LinkedIn:** https://www.linkedin.com/in/lucas-louren%C3%A7o-b3317633b/
