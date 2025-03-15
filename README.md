@@ -29,15 +29,7 @@ Este projeto tem como objetivo analisar padrões de atraso em entregas logístic
 │-- 📄 dataset.csv  # Base de dados utilizada
 │-- 📄 analise_logistica.ipynb  # Notebook com a análise
 │-- 📄 README.md  # Documentação do projeto
-```
-
-## 📌 Contribuição
-Sinta-se à vontade para sugerir melhorias, abrir issues ou contribuir com novas análises.
-
-## 📜 Licença
-Este projeto está licenciado sob a **MIT License**. Sinta-se livre para utilizá-lo e modificá-lo conforme necessário.
-
 ---
-🔍 **Autor:** Seu Nome  
-📧 Contato: seuemail@email.com  
+🔍 **Autor:** Lucas Lourenço
+📧 Contato: lucas.lourenco331@hotmail.com
 📌 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
