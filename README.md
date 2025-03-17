@@ -32,6 +32,9 @@ Este projeto tem como objetivo analisar padrões de atraso em entregas logístic
 ```
 
 ## 📞 Contato
+
 🔍 **Autor:** Lucas Lourenço
+
 📧 **E-mail:** lucas.lourenco331@hotmail.com
+
 📌 **LinkedIn:** https://www.linkedin.com/in/lucas-louren%C3%A7o-b3317633b/
